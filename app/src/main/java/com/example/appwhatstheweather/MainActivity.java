@@ -73,6 +73,7 @@ public class MainActivity extends AppCompatActivity {
         protected void onPostExecute(String result) {
             super.onPostExecute(result);
             Log.i("Website content :",result);
+            Log.i("Website content :",result);
         }
     }
 
